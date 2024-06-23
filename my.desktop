@@ -1,6 +1,6 @@
 [Desktop Entry]
 Type=Application
-Exec=chromium-browser  --disable-popup-blocking --no-first-run --disable-desktop-notifications bilibili.com/video/BV1os41197sv?p=1
+Exec=chromium-browser  --disable-popup-blocking --no-first-run --disable-desktop-notifications bilibili.com/video/BV1mc411C71o
 
 #BV1os41197sv?p=1 纯音音乐馆 240+10P
 #BV1Gm421G7jH “期待今年夏天的风可以凉快一些”||《风吹一夏》
